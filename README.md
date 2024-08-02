@@ -25,7 +25,7 @@ Some random stuff.
 
 
 ## Learning
-<img align="left" alt="CPP" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/01f2d70cc5f1936e0dcc5e566fa59eb7a95cd870/png/dev/languages/cpp.png"/>
+<img align="left" alt="C#" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/01f2d70cc5f1936e0dcc5e566fa59eb7a95cd870/png/dev/languages/csharp.png"/>
 <br>
 <br>
 
