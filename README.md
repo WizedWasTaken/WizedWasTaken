@@ -16,8 +16,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/react.png"/>
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a47ef79011ece63d4fca241d4c9f47fe2ba3b0b/svg/dev/frameworks/next.svg"/>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/docker.svg?plain=1"/>
-<br>
-<img width="40px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Light.svg?plain=1"/>
+<img width="40px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg?plain=1"/>
 </p>
 
 ## Learning
