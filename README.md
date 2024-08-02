@@ -29,10 +29,10 @@ Some random stuff.
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuntie&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Zuntie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuntie&theme=react&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WizedWasTaken&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Zuntie's GitHub stats](https://github-readme-stats.vercel.app/api?username=WizedWasTaken&theme=react&show_icons=true)
 
 ## 📬 Contact Me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/392318898046894090)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/714702162659377184)
 <br>
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zuntiedev@gmail.com)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noahanielsen@gmail.com)
