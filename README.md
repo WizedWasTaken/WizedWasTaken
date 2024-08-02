@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/fkY07p1.png"/>
+<img src="https://avatars.akamai.steamstatic.com/82ef15e6feb02fe20d1dbce3a7d4d283f1709d32_full.jpg"/>
 </div>
 
 ## About Me
